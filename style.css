@@ -1,0 +1,39 @@
+body{
+background-color: rgb(189, 153, 156);
+}
+
+
+#banner {
+     width:100%;
+}
+
+.principal{
+   background-color: rgb(211, 187, 187);
+   padding:  30px;
+}
+
+
+h1{
+text-align: center;
+
+}
+P {
+text-align: center;
+
+}
+
+#missão{
+font-size: 20px;
+
+}
+
+em strong {
+color: rgb(168, 231, 231);
+
+}
+
+.itens {
+font-size: italic;
+
+}
+
